@@ -7,7 +7,7 @@ author: Deepak Bhardwaj
 description: Nginx VNF test
 virtual_deployment_units:
   - id: vdu01
-    vm_image: deepakar/nginx_two_connection:latest
+    vm_image: deepakar/nginx_2_connection
     vm_image_format: docker
     resource_requirements:
       cpu:

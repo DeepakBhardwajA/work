@@ -4,7 +4,7 @@ vendor: de.upb
 name: ns_nginx
 version: '0.1'
 author: Deepak Bhardwaj
-description: Test service for benchmarking experiments, containing a single VNF and 2 web servers
+description: Test service for benchmarking experiments, containing a single VNF and 2 web servers.
 network_functions:
   - vnf_id: vnf0
     vnf_vendor: de.upb
@@ -70,4 +70,5 @@ forwarding_graphs:
             position: 5
           - connection_point_ref: "ns:output2"
             position: 6
+
 

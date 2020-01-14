@@ -5,13 +5,13 @@ files:
   type: application/vnd.5gtango.nsd
   tags:
   - eu.5gtango
-- path: vnfd_nginx.yml
+- path: vnf_nginx.yml
   type: application/vnd.5gtango.vnfd
   tags:
   - eu.5gtango
 package:
   name: ns_nginx
   version: '0.1'
-  maintainer: Deepak Bhardwaj
+  maintainer: MDeepak Bhardwaj
   vendor: de.upb
   description: Test service for benchmarking experiments.
