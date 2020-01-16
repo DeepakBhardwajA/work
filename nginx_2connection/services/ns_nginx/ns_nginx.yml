@@ -70,5 +70,3 @@ forwarding_graphs:
             position: 5
           - connection_point_ref: "ns:output2"
             position: 6
-
-

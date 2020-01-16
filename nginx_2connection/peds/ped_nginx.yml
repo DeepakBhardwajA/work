@@ -4,7 +4,7 @@
 # This is an example for a profiling experiment descriptor (PED) that
 # defines a profiling (benchmarking) experiment for a Suricata VNF
 # that is stimulated by traffic traces replayed with TCP replay.
-# 
+#
 # The tested network service (NSD, VNFDs) can be found in 'nw-services/'.
 #
 descriptor_version: 0.2  # 5GTANGO: 0.2, SONATA 0.1
@@ -79,4 +79,3 @@ service_experiments:
         mem_max: null  # int: Memory in MByte
         mem_swap_max: null
         io_bw: null
-
